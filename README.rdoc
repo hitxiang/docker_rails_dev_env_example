@@ -1,5 +1,7 @@
 == README
 
+http://www.talkingquickly.co.uk/2014/06/rails-development-environment-with-vagrant-and-docker/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
